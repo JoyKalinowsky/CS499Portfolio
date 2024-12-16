@@ -11,6 +11,11 @@ My artifacts fit together and inform the portfolio as a whole by showcasing my g
 
 Artifact One - Encrypted Hash Website
 -
+Original Artifact:
+[https://drive.google.com/drive/folders/1kFe4EL_h-xs7kcSoAF8cU0vS0eValeDg?usp=drive_link | Original]
+Enhanced Artifact:
+[https://drive.google.com/drive/folders/1JjiHVt0c_v8H-1FWo44J9Ay_2QKA5jUl?usp=sharing |Redone]
+
 These enhancements will demonstrate an ability to use well-founded and innovative techniques to implement computer solutions that deliver value and accomplish software engineering goals. In particular, these enhancements are based off of practices suggested on the OWASP Secure Coding Practices website. This ensures that the techniques implemented are well-founded and have reputation and experience from a respected cybersecurity authority, OWASP, behind them to back them up. These enhancements will work to enhance the security of the website using OWASP Secure Coding Best Practices.
 The first enhancement will be to consistently use HTTPS to ensure that no HTTP vulnerabilities are taken advantage of. This ensures enhanced privacy and security of data and resources, by creating an encrypted connection to the server website. SSL is a security protocol that uses an authentication process to encrypt data and ensure that it can only be read between the sender and recipient and cannot be intercepted by malicious third parties.
 The second enhancement will be validating data length to ensure that malicious site hijacking that may alter the input data cannot cause any unexpected server behavior. By limiting the input size to a reasonable length, a malicious actor cannot use an overly long input to decrease the performance of the site by slowing it down or crashing it completely. 
@@ -20,6 +25,11 @@ The fourth enhancement will be to log all apparent tampering events, including u
 
 Artifact Two - Animal Shelter
 -
+Original Artifact:
+[https://drive.google.com/drive/folders/1tgahogQNaSvFvWCugVJBWUD4nE_8QfcA?usp=drive_link|Original]
+Enhanced Artifact:
+[https://drive.google.com/drive/folders/1Wy_tIiDPx5r1fapUkMty1sAvSYjW4-lH?usp=drive_link|Redone]
+
 This artifact is called the Animal Shelter. It is a website that allows users to view the different animals of an animal shelter and sort them by user-specified traits. In addition, it also has charts and a map to provide visual representations of animal data. This artifact was created for the CS 340 class. 
 I selected this item to include in my ePortfolio because because I believe it is a strong example of the use of a database. Users can select different options to sort the entries in the database by their attributes, allowing them to access specific data within it that may be of interest. The specific components of my artifact that showcace my skills and abilities in software development are the table and the charts. These showcase my abilities by allowing users to organize the animals in terms of their attributes and see visual representations of their data. The artifact was improved by adding more graphs for the users to see the animals’ data as well as providing more options to sort the animals by their attributes and only see animals that have certain attributes. 
 I did meet the course outcomes I planned to meet with this enhancement. The course outcomes I has planned to meet with this enhancement were to demonstrate an ability to use well-founded techniques, skills, and tools in computing pratices to accomplish industry-specific goals. The updates I have to my outcome-coverage plans are that I have included new charts and options for organizing the database to accomplish the goal of allowing users to sort and filter animals in the animal shelter database by their attributes. These updates give users more options on how they can sort the animals in the database and compare their data in the visual medium of charts.
@@ -28,6 +38,11 @@ As I was creating and improving my enhancement, I learned through the Plotly web
 
 Artifact Three - Contact Service
 -
+Original Artifact:
+[https://drive.google.com/drive/folders/1mjb0wZC5McPRe4xQaOwEqZLVjY3koTV0?usp=drive_link|Original]
+Enhanced Artifact:
+[https://drive.google.com/drive/folders/1WQnh2j6QvCdJfmJFGhHAahjLwr1eXhCo?usp=drive_link|Redone]
+
 This artifact is called ContactService. It is a program that serves as a digital contact-storing array service initially and is then polished to have the functionality to manipulate the contact-storing arrays as well. It was created for the CS320 class.
 I decided to include this artifact because it is an easy-to-understand yet robust example of a Data Structure. It is simple enough to showcase the most basic functionality for an array such as adding, removing, and updating data, yet is tied enough into a real-life example of a contact rolodex for the average person to understand what it is. The tests and the different functions of the program showcase my skills and abilities in not so much algorithms, but rather data structures. The data structures are essentially collections of data objects that can be manipulated by users through the use of functions. The artifact was improved by adding the functionality to manipulate the ContactServices themselves by implementing the functionality to create and maintain a collection of ContactServices. 
 I did meet the course outcomes I planned to meet with this enhancement in Module One. Mainly, I reached the course outcomes of designing computing solutions that manage trade-offs involved in design choices regarding data structures and the ability to use well-founded techniques to implement valuable computer solutions that accomplish goals. 
