@@ -12,7 +12,7 @@ My artifacts fit together and inform the portfolio as a whole by showcasing my g
 Artifact One - Encrypted Hash Website
 -
 Original Artifact:
-[https://drive.google.com/drive/folders/1kFe4EL_h-xs7kcSoAF8cU0vS0eValeDg?usp=drive_link | Original]
+https://drive.google.com/drive/folders/1kFe4EL_h-xs7kcSoAF8cU0vS0eValeDg?usp=drive_link 
 Enhanced Artifact:
 [https://drive.google.com/drive/folders/1JjiHVt0c_v8H-1FWo44J9Ay_2QKA5jUl?usp=sharing |Redone]
 
