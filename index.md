@@ -55,6 +55,7 @@ As I was enhancing and modifying the artifact, I learned to consider what kind o
 Code Review
 -
 Here is the link to my code review:
-[https://youtu.be/B8u7QCf14s4]
+
+https://youtu.be/B8u7QCf14s4
 
 
