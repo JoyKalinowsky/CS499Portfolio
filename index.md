@@ -1,24 +1,24 @@
 --
-title: CS 499 Portfolio
+CS 499 Portfolio
 --
 
 ---
-title: Artifact One
+Artifact One
 ---
 
 ---
-title: Artifact Two
+Artifact Two
 ---
 
 ---
-title: Artifact Three
+Artifact Three
 ---
 
 ---
-title: Code Review
+Code Review
 ---
 
 ---
-title: Final Reflection
+Final Reflection
 ---
 
