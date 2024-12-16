@@ -1,4 +1,4 @@
-CS 499 Portfolio 
+Joy Kalinowsky's CS 499 Portfolio 
 -
 
 Professional Self-Assessment
