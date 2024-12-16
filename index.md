@@ -6,16 +6,10 @@ CS 499 Portfolio
 ---
 Artifact One
 ---
-Hewwo!!!
----
+f
+
 Artifact Two
----
-
----
 Artifact Three
----
-
----
 Code Review
 ---
 
